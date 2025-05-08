@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial',sans-serif;
-    background-color: #e1f0da;
+    background-color: #7c7340;
     margin: 0;
     padding: 0;
 }
@@ -14,6 +14,7 @@ body {
     text-transform: uppercase;
     font-size: 50px;
     margin: 30px;
+    text-shadow: 2px 3px 4px red;
 }
 
 .search-container {
